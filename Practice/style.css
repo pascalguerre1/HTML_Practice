@@ -1,0 +1,50 @@
+/* * mean everything*/
+/**{margin:0;padding: 0}*/
+
+/*h1{margin:0;padding: 0}*/
+
+h3{color: red}
+
+#blog-1{color: black; text-align: center}
+
+/* Comment */
+
+#blog-2{color: blue; text-align: left;font-size: 40px}
+
+.blog-center{text-align: center}
+
+#blog2section{background-color: #3E92DD}
+
+h1{background: #57534E; text-align: center; font-size: 40px}
+
+h1{background: rgb(255,87,51); text-align: center; font-size: 40px}
+
+body{background-color: #E2A859; color:white; width: 80%; margin: auto}
+
+/*link inside button*/
+button a {color: red}
+
+button {background: blue}
+
+ul{line-height: 50px}
+
+/*li{list-style: none}*/
+
+a{text-decoration: none}
+
+a:hover{color: black}
+
+/*p{margin-top: 100px;margin-left: 100px; padding: 200px}*/
+
+img{padding: 10%; border-style: solid;marging: 200px; background-color: black}
+
+#p1{color: blue; background-color: black; padding: 100px; margin: 100px}
+
+.container{background-color: yellow}
+/*positions of items, could be fixed or relative or absolute, mostly used for advertisement*/
+#top{width: 20%; height: 50px; position: fixed; top: :80%;right:80%}
+
+
+#pagelist li:first-child{background-color: red;}
+
+#pagelist li:nth-child(3){background-color: yellow;}
